@@ -1,0 +1,133 @@
+.firstimg{
+    width: 100%;background-size: cover;
+    height: 90vh;   
+    background-image: url('../images/events-heavenly-header.jpg' );
+}
+.nav-link{
+    transition: 0.5s;
+}
+.py{padding-bottom: 150px;}
+.bg{
+    
+    width: 100%;
+    height: 90vh;
+    background-color:  rgba(214, 46, 51, 0.6);}
+
+    .bg2{
+    
+    width: 100%;
+    height: 45vh;
+    background-color:  rgba(214, 46, 51, 0.6);}
+    /* .offcanvas.offcanvas-end {
+         left: 0;right: 100% !important;
+         transition: 0.5s;
+
+
+    } */
+.timerimg{ background-size: cover;
+    width: 100%;background-image: url('../images/invitation-2508607__340.jpg') ;
+}
+    .fs{font-size: 40px;font-weight: 500px !important;border: 1px solid white; }
+    .slider {
+        position: fixed; 
+        top: 0;
+        left: 0;
+        width: 0;
+        height: 100vh; 
+        background-color: black;
+        transition: width 0.5s ease-in-out;
+      }
+   .button {
+  position: absolute;
+  left: 0;
+  cursor: pointer;
+  transition: transform 0.5s ease-in-out; 
+}
+.display{
+ transition: height   0.3s ease-in-out;
+    height:0;
+    overflow: hidden;
+    background-color: #ccc;
+}
+.display1{
+ transition: height   0.3s ease-in-out;
+    height:0;
+    overflow: hidden;
+    background-color: #ccc;
+}
+.display2{
+ transition: height   0.3s ease-in-out;
+    height:0;
+    overflow: hidden;
+    background-color: #ccc;
+}
+.display3{
+ transition: height   0.3s ease-in-out;
+    height:0;
+    overflow: hidden;
+    background-color: #ccc;
+}
+/* :root {
+    scroll-behavior: smooth;
+  } */
+  
+
+.singer1{background-color: rgba(214, 46, 51, 0.6);
+cursor: pointer;
+}
+.singer2{background-color: rgba(214, 46, 51, 0.6);
+cursor: pointer;
+}
+.singer3{background-color: rgba(214, 46, 51, 0.6);
+
+cursor: pointer;
+}
+.singer4{background-color: rgba(214, 46, 51, 0.6);
+cursor: pointer;
+}
+
+    body{margin: 0;padding: 0;}
+.col{color: #D62E33;}
+    .a{color: white;}
+    .a:hover{color: brown;}
+    .b{color: white;}
+    .b:hover{color: brown;}
+    .c{color: white;}
+    .c:hover{color: brown;}
+    .d{color: white;}
+    .d:hover{color: brown;}
+    .e{color: white;}
+    .e:hover{color: brown;}
+
+#countdown {
+    display: flex;
+    gap: 20px;
+    font-size: 2em;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#countdown div {
+    text-align: center;
+}
+.grey{
+color: gray; 
+/* background: green; */
+
+border: 1px solid gray;
+padding-left: 12px;
+padding-right: 12px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.grey:hover{
+    background-color: #D62E33;
+    color: white; border: none;
+}
+.hw{height: 7vh;width: 25%;
+
+border: none;
+background-color: #D62E33;color: white;
+}
